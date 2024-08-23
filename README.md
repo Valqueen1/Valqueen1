@@ -1,6 +1,6 @@
 ## Hi there ✨
 
-_**This is my practice and learning repository, the name "Valqueen" is a fantasy name 👀, that's how I called my main character in MMORPG video games (😜).**_ 
+_**This is my practice and learning repository, the name "Valqueen" is a fantasy name 👀.**_ 
 
 - 🔭 I’m currently working on teaching, visual design and web development.
 - 🌱 I’m currently learning JAVA, React, C#.
